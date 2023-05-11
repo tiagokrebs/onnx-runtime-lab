@@ -7,7 +7,7 @@
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
-  },
+  ,"deploy":"azioncli edge_applications publish"},
   "dependencies": {
     "@types/node": "18.14.1",
     "@types/react": "18.0.28",

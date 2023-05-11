@@ -1,0 +1,8 @@
+{
+    "build": {
+        "cmd": "",
+        "env": "./azion/webdev.env",
+        "output-ctrl": "on-error",
+        "default": "npx --yes azion-framework-adapter@0.3.1 build --version-id %s || exit $?"
+   }
+}
