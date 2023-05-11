@@ -1,0 +1,14 @@
+{
+  "operationType": "API",
+  "handler": "___next_launcher.cjs",
+  "runtime": "nodejs18.x",
+  "environment": {},
+  "supportsMultiPayloads": false,
+  "framework": {
+    "slug": "nextjs",
+    "version": "12.3.4"
+  },
+  "launcherType": "Nodejs",
+  "shouldAddHelpers": false,
+  "shouldAddSourcemapSupport": false
+}
